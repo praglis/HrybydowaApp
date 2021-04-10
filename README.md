@@ -11,8 +11,7 @@ Baza danych — SQL Server
 </p>
 
 ## Zespół 
-<ul>
-<li>@BillCosbill</li>
-<li>@alicja5</li>
-<li>@praglis</li>
-<li>@Rivijczyk98</li>
+* [@BillCosbill](https://github.com/BillCosbill)
+* [@alicja5](https://github.com/alicja5)
+* [@praglis](https://github.com/praglis)
+* [@Rivijczyk98](https://github.com/Rivijczyk98)
