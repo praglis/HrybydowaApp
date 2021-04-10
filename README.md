@@ -1,9 +1,14 @@
 # HrybydowaApp
 
-Projekt napisany na zaliczenie Programowania Hybrydowego mający na celu stworzenie zabezpieczonego API i dostęp do niego z aplikacji webowej. Udostępniony został później za pomocą Azure WebApp oraz Azure Container. 
-<p>API - Spring Boot</br>
-Database - SQL Server</br>
-Frontend - Angular 7+</p>
+Jest to system składający się z zabezpieczonego API oraz webowej aplikacji klienckiej korzystającej z tego API. Przez pewien czas był wdrożony za pomocą Azure WebApp oraz Azure Container. Projekt został napisany w ramach przedmiotu Programowanie Hybrydowe.
+
+## Zastosowane technologie:
+<p>API — Spring Boot
+
+Aplikacja kliencka — Angular 7+
+
+Baza danych — SQL Server
+</p>
 
 ## Zespół 
 <ul>
