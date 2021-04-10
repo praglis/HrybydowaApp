@@ -1,6 +1,6 @@
 # HrybydowaApp
 
-Jest to system składający się z zabezpieczonego API oraz webowej aplikacji klienckiej korzystającej z tego API. Przez pewien czas był wdrożony za pomocą Azure WebApp oraz Azure Container. Projekt został napisany w ramach przedmiotu Programowanie Hybrydowe.
+Jest to system wspomagający pracę biblioteki składający się z zabezpieczonego API oraz webowej aplikacji klienckiej korzystającej z tego API. Przez pewien czas był wdrożony za pomocą Azure WebApp oraz Azure Container. Projekt został napisany w ramach przedmiotu Programowanie Hybrydowe.
 
 ## Zastosowane technologie:
 <p>API — Spring Boot
